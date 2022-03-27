@@ -78,7 +78,7 @@ app.layout = html.Div(children=[
                                     style={
                                         'textAlign': 'left', 'color': '#503D36', 'font-size': 24
                                     }
-                                )
+                                ),
                                 # REVIEW2: Dropdown creation
                                 # Create an outer division 
                                 html.Div([
